@@ -20,10 +20,19 @@ git clone https://github.com/TrevorEngland23/Package-Delivery-CLI.git
 
 ## POC  
 
+**Main Menu:**  
 ![screenshot](screenshots/Menu.png)  
+
+**Get Truck Total Mileage:**  
 ![screenshot](screenshots/E1.1.png)  
-![screenshot](screenshots/Menu2.png)
-![screenshot](screenshots/D2.1.png)
-![screenshot](screenshot/Menu4.png)
+
+**Get a Single Package Status with a Time:**  
+![screenshot](screenshots/Menu2.png)  
+
+**Get All Package Status with a Time:**  
+![screenshot](screenshots/D2.1.png)  
+
+**Exit the Program:**  
+![screenshot](screenshots/Menu4.png)
 
 
