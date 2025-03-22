@@ -45,7 +45,7 @@ def display(truck1, truck2, truck3, trucks, truck_table, incorrect_addresses, de
                     print("Invalid packaage ID: Please enter a package ID 1-40")
                     continue
                 p_id = int(p_id)
-                package_time = input("Enter a time to view package {}'s status: ".format(p_id))
+                package_time = input("Enter a time to view package {}'s status: ".format(p_id)).lower()
                 if package_time.lower() == 'b':
                     continue
 
